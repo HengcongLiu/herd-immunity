@@ -10,7 +10,7 @@ The files are described as follows:
 1. The code directory includes two .cpp files (all-or-nothing model.cpp, and leaky.cpp), corresponding the two vaccine model used in the above paper, and one .sh file (sample.sh) which is an example of input parameters.
 
 2. The input director includes all the data used in the paper, namely  
-china_contact-matrix: the $$16*16$$ contact matrix of China;  
+china_contact-matrix: the $16*16$ contact matrix of China;  
 contraindication: the proportion of contraindication and pregnant women by age groups;  
 dose: the historical vaccine administration in China;  
 population: the shanghai population by age groups;  
