@@ -15,7 +15,7 @@ contraindication: the proportion of contraindication and pregnant women by age g
 dose: the historical vaccine administration in China;  
 population: the shanghai population by age groups;  
 susceptibility: the age-specific susceptibility;  
-shanghai-contact-matrix: includes 200 bootstrapped 16\times 16 contact matrices of Shanghai.  
+shanghai-contact-matrix: includes 200 bootstrapped 16* 16 contact matrices of Shanghai.  
 
 If any bugs or issues with the code are identified please do get in touch!
 
