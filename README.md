@@ -7,13 +7,13 @@ The code.rar includes all the materials to generate the most results in the abov
 
 1. The code directory includes two .cpp files (all-or-nothing model.cpp, leaky.cpp), corresponding the two vaccine model used in the above paper, and one .sh file (sample.sh) which is an example of input parameters.
 
-2. The input director includes all the data used in the paper. 
-2.1 china_contact-matrix: the 16*16 contact matrix of China population;
-2.2 contraindication: the proportion of contraindication and pregnant women by age groups;
-2.3 dose: the historical vaccine administration in China;
-2.4 population: the shanghai population by age groups;
-2.5 susceptibility: the age-specific susceptibility;
-2.6 shanghai-contact-matrix: includes 200 bootstrapped contact matrices of Shanghai.
+2. The input director includes all the data used in the paper.  
+china_contact-matrix: the 16*16 contact matrix of China population;  
+contraindication: the proportion of contraindication and pregnant women by age groups;  
+dose: the historical vaccine administration in China;  
+population: the shanghai population by age groups;  
+susceptibility: the age-specific susceptibility;  
+shanghai-contact-matrix: includes 200 bootstrapped contact matrices of Shanghai.  
 
 If any bugs or issues with the code are identified please do get in touch!
 
